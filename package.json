@@ -1,6 +1,6 @@
 {
   "name": "@neilzo/eslint-config-microfrontend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A shareable and extendable eslint config across a monorepo",
   "main": "index.js",
   "peerDependencies": {
